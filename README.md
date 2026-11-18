@@ -1,0 +1,2 @@
+# Tp1-openscience-groupe-biomol
+Initierlesétudantsàlacollaborationscientifqueouverteàtraverslacréaton,lagestionetla documentationd’unprojetcolaboratifsurGitHub.
